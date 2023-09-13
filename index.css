@@ -1,0 +1,137 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.navbar-custom {
+    background-color: black;
+}
+
+
+#navItem1 {
+    color: #fff;
+    font-family: "Roboto";
+}
+
+#navItem2 {
+    color: #fff;
+    font-family: "Roboto";
+}
+
+#navItem3 {
+    color: #fff;
+    font-family: "Roboto";
+}
+
+#navItem4 {
+    color: #fff;
+    font-family: "Roboto";
+}
+
+
+.mobile-img {
+    height: 90%;
+    width: 100%;
+}
+
+
+.bg-section {
+    background-image: linear-gradient(to bottom, #f408b9, #ffffff);
+}
+
+
+.heading {
+    color: #cc6285;
+    font-size: 35px;
+    font-weight: 900;
+    font-family: Verdana;
+}
+
+
+.custom-button {
+    color: white;
+    background-color: #45021f;
+    width: 130px;
+    height: 45px;
+    border-width: 0;
+    border-radius: 8px;
+    margin-right: 10px;
+}
+
+.custom-button:hover {
+    background-color: #6b50e3;
+    color: #060117;
+
+}
+
+
+.span-element {
+    color: #9b15e8;
+    font-weight: 900;
+    font-family: Verdana;
+}
+
+
+.description {
+    color: #171616;
+    font-size: 16px;
+    font-weight: 900;
+    font-family: Arial;
+}
+
+.Products {
+    color: #04000f;
+    font-size: 26px;
+    font-weight: 900;
+}
+
+
+.products-card {
+    text-align: center;
+    background-color: white;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #e5eaf4;
+    border-radius: 16px;
+}
+
+
+.image {
+    width: 187px;
+    height: 190px;
+}
+
+
+.prize {
+    color: #0d0007;
+    font-size: 14px;
+    font-weight: 900;
+    font-family: Sans-Serif;
+}
+
+.mobile-name {
+    color: #291b23;
+    font-size: 14px;
+    font-weight: 900;
+    font-family: Segoe UI;
+}
+
+
+.PRODUCT-Contact-text {
+    color: #0f0f0f;
+    font-size: 23px;
+    font-weight: 600;
+    font-family: Roboto;
+}
+
+
+.bg-contact-section {
+    background-image: linear-gradient(to left, #021436, #fff);
+}
+
+.contact-follows-section {
+    list-style-type: none;
+}
+
+.footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+}
